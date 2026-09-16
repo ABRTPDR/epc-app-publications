@@ -3,7 +3,8 @@
     "2026": {
       "issues": [
         { "name": "Issue Zero", "categoryId": 476 },
-        { "name": "Issue One", "categoryId": 477 }
+        { "name": "Issue One", "categoryId": 477 },
+        { "name": "Issue Two", "categoryId": 479 }
       ]
     },
     "2025": {
@@ -276,6 +277,18 @@
     "2017"
   ],
   "BEP_CATALOG": {
+    "2026 – The Aletheia": {
+      "issues": [
+        { 
+          "name": "Issue Zero (Pre-fest)", 
+          "children": [
+            { "name": "CoSSAc and SFC", "categoryId": 481 },
+            { "name": "Sports Teams", "categoryId": 482 },
+            { "name": "Clubs and Departments", "categoryId": 483 }
+          ]
+        }
+      ]
+    },
     "2025 – The Kinetica": {
       "issues": [
         { 
@@ -394,6 +407,7 @@
     }
   },
   "BEP_YEARS_ORDER": [
+    "2026 – The Aletheia",
     "2025 – The Kinetica",
     "2024",
     "2023",
