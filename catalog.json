@@ -425,7 +425,11 @@
           "children": [
             { "name": "StuCCA", "categoryId": 456 },
             { "name": "Departments", "categoryId": 459 },
-            { "name": "Clubs and Associations", "categoryId": 460 }
+            {
+              "name": "Clubs and Associations",
+              "categoryId": 460,
+              "includedArticles": [ 10344 ]
+            }
           ]
         }
       ]
