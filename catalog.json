@@ -279,14 +279,16 @@
   "BEP_CATALOG": {
     "2026 – The Aletheia": {
       "issues": [
-        { 
+        {
           "name": "Issue Zero (Pre-fest)", 
           "children": [
             { "name": "CoSSAc and SFC", "categoryId": 481 },
             { "name": "Sports Teams", "categoryId": 482 },
             { "name": "Clubs and Departments", "categoryId": 483 }
           ]
-        }
+        },
+        { "name": "Fest Issues", "categoryId": 485 },
+        { "name": "Post-fest", "categoryId": 484 }
       ]
     },
     "2025 – The Kinetica": {
